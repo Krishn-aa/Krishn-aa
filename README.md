@@ -20,7 +20,7 @@ Java · C · C++ · C# · Python · HTML · CSS · JavaScript · TypeScript
 Angular · React · Angular Material · Bootstrap · Tailwind CSS
 
 **Backend**  
-.NET · Node.js · Express.js · Spring · Hibernate · Flask
+.NET · Django · Node.js · Express.js · Spring · Hibernate · Flask
 
 **Databases**  
 MySQL · MongoDB · SQL Server
