@@ -50,7 +50,6 @@ Postman · Visual Studio · VS Code · Unity
 - 🧑‍💻 GitHub: [github.com/Krishn-aa](https://github.com/Krishn-aa)  
 - 🧩 LeetCode: [leetcode.com/u/code_krishnaa](https://leetcode.com/u/code_krishnaa/)
 
-If you’d like, next step can be creating a shorter “pinned repo” README or a project-specific template.
 
 
 <!---
